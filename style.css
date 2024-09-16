@@ -7,16 +7,7 @@ body {
 	width: 900px;
 }
 
-.menu-opcoes {
-  background-color: ;
-  
-}
-
-.menu-opcoes ul li {
-  list-style: none;
-  display: inline-flex;
-  padding: 30px;
-  font-size: 20px;
-  padding-left: 0;
-  color: #2f4f4f;
+#menu {
+  background: #c5c5b2;
+  padding: 18px;
 }
